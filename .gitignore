@@ -1,6 +1,9 @@
 # IDE folder
 .idea
 
+# prod files
+out
+
 # Compiled class file
 *.class
 
