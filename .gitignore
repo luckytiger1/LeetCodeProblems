@@ -4,6 +4,9 @@
 # prod files
 out
 
+# src folders
+src
+
 # Compiled class file
 *.class
 
